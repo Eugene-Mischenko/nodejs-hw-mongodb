@@ -41,7 +41,7 @@ responses:
           properties:
             status:
               type: integer
-              example: 201Add commentMore actions
+              example: 201
             message:
               type: string
               example: Successfully registered a user!
